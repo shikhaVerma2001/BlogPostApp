@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "58e3d23e-e31c-c4bf-7478-c62439969b48",
+      "title": "1st Post",
+      "category": "React, Redux",
+      "datetime": "February 28, 2023 2:13:51 PM",
+      "body": "This is the body of updated post.",
+      "likes": 51
+    },
+    {
+      "id": "1b0089d4-1dd8-5c30-eb9c-40ded83e1a8d",
+      "title": "2nd Post",
+      "category": "Context API",
+      "datetime": "February 28, 2023 2:12:42 PM",
+      "body": "This is the body of the 2nd post. In this post, we are going to discuss about the Context API. The Context API is a state management which is used in React.",
+      "likes": 14
+    }
+  ]
+}
